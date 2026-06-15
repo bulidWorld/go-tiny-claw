@@ -1,0 +1,12 @@
+{
+  "deepseek_claude": {
+    "anthropic_base_url": "https://api.deepseek.com/anthropic",
+    "anthropic_auth_token": "sk-your-deepseek-api-key",
+    "anthropic_model": "deepseek-v4-pro[1m]",
+    "anthropic_default_opus_model": "deepseek-v4-pro[1m]",
+    "anthropic_default_sonnet_model": "deepseek-v4-pro[1m]",
+    "anthropic_default_haiku_model": "deepseek-v4-flash",
+    "claude_code_subagent_model": "deepseek-v4-flash",
+    "claude_code_effort_level": "max"
+  }
+}

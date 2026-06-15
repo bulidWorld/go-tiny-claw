@@ -1,0 +1,10 @@
+claw.config.json
+.claw/
+.vscode/
+# Temp test files
+a.txt
+b.txt
+c.txt
+hello.txt
+helloworld.go
+server.go
